@@ -1,0 +1,9 @@
+julia 0.7
+Reexport
+SimradRaw
+SimradEK60
+EchogramPlots
+EchogramImages
+EchoviewEvr
+EchoviewEcs
+SimradEK60TestData
